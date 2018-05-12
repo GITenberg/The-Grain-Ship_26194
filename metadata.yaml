@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25902
     wikipedia: http://en.wikipedia.org/wiki/Morgan_Robertson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26194#The-Grain-Ship
 gutenberg_issued: '2008-08-05'
 gutenberg_type: Text
 identifiers:
